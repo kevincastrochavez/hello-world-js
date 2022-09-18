@@ -4,15 +4,13 @@ My program prints 'Hello World' to the console in the JavaScript language
 
 The purpose of creating this program is to create a personal software portfolio
 
-{Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=T7bPOWsy5W8)
 
 # Development Environment
 
 I used JavaScript and the Internet Browser to look at my program
 
-{Describe the programming language that you used}
+JavaScript is a scripting or programming language that allows you to implement complex features on web pages, displaying timely content updates, interactive maps, animated 2D/3D graphics, etc.
 
 # Useful Websites
 
